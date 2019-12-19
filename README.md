@@ -9,4 +9,4 @@ Ici sont stockés :
 - Les clients mobiles iOS/Android
 - Applications autres
 
-Plusieurs versions développés lors du projet seront mis à disposition pour les besoins de l'équipe.
+Plusieurs versions développés lors du projet et divers document et codes diverses seront mis à disposition pour les besoins de l'équipe.
